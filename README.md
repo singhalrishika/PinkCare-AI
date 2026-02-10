@@ -52,9 +52,9 @@ python app.py
 
 This project is for educational purposes only and should not be used for real medical diagnosis.
 
-## Live Demo
+🌐 Live Demo
 
-Check out the live version of this project here: [PinkCare-AI Live](https://pink-care-ai.vercel.app/)
+Check out the live version of this project here: PinkCare-AI Live Demo
 
 
 
