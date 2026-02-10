@@ -51,3 +51,7 @@ python app.py
 📌 Disclaimer
 
 This project is for educational purposes only and should not be used for real medical diagnosis.
+
+LIVE DEMO
+
+pink-care-ai-git-main-rishikas-projects-8b1ea3d4.vercel.app
