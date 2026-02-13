@@ -15,12 +15,7 @@ This project is a customized version of an open-source medical prediction system
 
 ---
 
-## 🎨 Customizations Done By Me
-- Redesigned UI color scheme (pink-purple medical theme)
-- Updated global styling and layout appearance
-- Improved visual user experience
 
----
 
 ## 🛠️ Tech Stack
 - React.js
